@@ -1,6 +1,7 @@
 # BA-Assignment
 
 Major Features for the E-commerce Portal
+
 Customer Portal - 
 
 1- Product Search and Navigation:
