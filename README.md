@@ -6,7 +6,7 @@ Customer Portal -
 
 1- Product Search and Navigation:
 
-a- Intuitive search bar with autocomplete suggestions.
+a- Intuitive search bar with autocomplete suggestions,
 b- Advanced filters (category, brand, price, rating, discount).
 c- Easy navigation between categories like cricket, football, fitness equipment, etc.
 
