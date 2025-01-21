@@ -58,6 +58,7 @@ a- Log in via social media accounts,
 b- Share reviews and purchases directly to platforms like Instagram or Facebook.
 
 Vendor Portal- 
+
 1- Vendor Registration:
 
 a- User-friendly registration form,
